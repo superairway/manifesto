@@ -1,14 +1,14 @@
 
-# The SuperHighway Manifesto
-## What's SuperHighway?
+# The SuperAirway Manifesto
+## What's SuperAirway?
 
-SuperHighway is an Open Source initiative aiming to accelerate the implementation of drones (UAV) based applications in SmartCities.
+SuperAirway is an Open Source initiative aiming to accelerate the implementation of drones (UAV) based applications in SmartCities.
 
-SuperHighway abstracts the network layer (Drone Routing Platform) and the transport layer (Drone Delivery Service) enabling developers to deploy highly scalable applications without worrying about technical issues and regulatory constraints.
+SuperAirway abstracts the network layer (Drone Routing Platform) and the transport layer (Drone Delivery Service) enabling developers to deploy highly scalable applications without worrying about technical issues and regulatory constraints.
 
-## Why we must code SuperHighway?
+## Why we must code SuperAirway?
 
-We must code SuperHighway because it creates the platform to develop new services never dreamed before, such as:
+We must code SuperAirway because it creates the platform to develop new services never dreamed before, such as:
 
 - Delivering thousand of Air Mails
 - Express delivery for medical emergencies
@@ -25,15 +25,15 @@ Amazon is not doing going to do it for us.
 Delivery companies aren't profitable if they don't exploit their workers.
 [Deliveroo leaves Spain after losing 23M€ in two years.](https://www.theolivepress.es/spain-news/2022/03/18/deliveroo-leaves-spain-after-losing-e23-million-in-two-years/)
 
-## How SuperHighway will be available?
+## How SuperAirway will be available?
 
-SuperHighway infrastructure will be deployed in SmartCities around the world as will be offered as a platform to third party companies and developers.
+SuperAirway infrastructure will be deployed in SmartCities around the world as will be offered as a platform to third party companies and developers.
 
-SuperHighway will also be available as a development kit where any developer will be able to deploy their own infrastructure.
+SuperAirway will also be available as a development kit where any developer will be able to deploy their own infrastructure.
 
-## Where can I try SuperHighway?
+## Where can I try SuperAirway?
 
-SuperHighway is located in Paris, France where we are building our first prototype.  We expect our first deployment in October 2023.
+SuperAirway is located in Paris, France where we are building our first prototype.  We expect our first deployment in October 2023.
 
 ## How can you contribute?
 
