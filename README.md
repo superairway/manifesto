@@ -37,7 +37,7 @@ SuperAirway is located in Paris, France where we are building our first prototyp
 
 ## How can you contribute?
 
-First, you can click on the Start on this repository,
+First, you can click on the Star on this repository,
 Secondly, you can share this repository with your friends,
 
 #### Help us code the future
